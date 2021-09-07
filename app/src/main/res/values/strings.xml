@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">T.Encargado1</string>
+    <string name="textview">TextView</string>
+    <string name="resta">Resta</string>
+    <string name="division">Division</string>
+    <string name="multiplicacion">Multiplicacion</string>
+    <string name="suma">Suma</string>
+
+
+    <string name="add">Sumar</string>
+    <string name="sub">Restar</string>
+    <string name="mul">Multiplicar</string>
+    <string name="div">Dividir</string>
+
+    <string name="_0">0</string>
+    <string name="tituloAplicacion">Ejercicios Propuestos 01</string>
+    <string name="opcion1">FragmentTabhost</string>
+    <string name="opcion3">Salir</string>
+</resources>
